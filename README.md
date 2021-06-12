@@ -2,10 +2,7 @@
 demo: https://music-player-appl.web.app/
 
 ## Sample video
-![Dashboard](cappella-player.gif)
-
-## Sample Video
-![sample-video](/assets/salesplus.gif)
+![sample-video](cappella-player.gif)
 
 ## Sample Picture
 ![screenshot](cappella-player.JPG)
